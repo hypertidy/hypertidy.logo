@@ -1,3 +1,5 @@
+## thanks @hrbrmstr  https://rud.is/b/2016/02/11/plot-the-new-svg-r-logo-with-ggplot2/
+
 library(sp)
 library(maptools)
 library(rgeos)
